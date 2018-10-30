@@ -1,2 +1,2 @@
 # hello-world
-I do time series methods
+Time series methodologist and scholar of public opinion.
